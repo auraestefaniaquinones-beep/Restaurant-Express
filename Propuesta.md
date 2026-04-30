@@ -37,6 +37,13 @@ malentendidos y permite al cliente saber exactamente en qué estado está su com
 - Aura Quiñones-Backend: Node.js (Express)
 - Isaura Banguera-Base de datos: MySQL
 
+
+**opinion de aura**
+Considero que el proyecto responde a una necesidad clara y práctica para el usuario.
+La funcionalidad de seguimiento de pedidos es la más relevante,
+ya que requiere la integración de varios componentes del sistema y mejora la experiencia del usuario.
+En general, estoy de acuerdo con las tecnologías propuestas por su adecuación y escalabilidad.
+
 **opinion de isaura**
 Me gusta mucho esta propuesta porque ataca un problema que 
 vemos a diario en negocios de nuestro entorno. El hecho de que tenga dos tipos 
